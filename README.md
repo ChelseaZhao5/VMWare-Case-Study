@@ -6,7 +6,7 @@ actions, including Hands-on Lab (HoL), Evaluation, Webinar Registration, Seminar
 The full dataset contains over 50,000 instances and it was split into training fold dataset, testing fold dataset as well as validation dataset.
 
 Steps I took:
-1. Handle missing values: for numeric features, imputation was performed, replacing missing values with each feature’s respective mean value. 
+1. Handled missing values: for numeric features, imputation was performed, replacing missing values with each feature’s respective mean value. 
 Missing values in categorical features were replaced with “None”, to avoid running into any issues with NA values.
 
 2. Removed highly correlated numerical features and created dummy variables for categorical features.
