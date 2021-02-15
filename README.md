@@ -13,5 +13,5 @@ Missing values in categorical features were replaced with “None”, to avoid r
 
 3. Preformed PCA and kept 33 principal components as they will keep 95% of the variance of the original dataset
 
-4. Train the simple logistic regression model and assessed the performance using AUC.
+4. Trained the simple logistic regression model and assessed the performance using AUC.
 
